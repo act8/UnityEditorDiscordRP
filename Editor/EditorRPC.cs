@@ -111,7 +111,6 @@ namespace EditorRPC
 
         static void SceneLoadedCallback(Scene scene, OpenSceneMode openMode)
         {
-            Debug.Log($"{AppName} at {SceneName}");
             SceneName = scene.name;
             UpdateActivity();
         }
