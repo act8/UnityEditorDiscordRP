@@ -1,0 +1,19 @@
+{
+  "name": "com.act8team.unityeditorrpc",
+  "version": "1.0.0",
+  "displayName": "Unity Editor Discord RPC",
+  "description": "Integration for Editor to display your activity on Discord.",
+  "author": {
+    "name": "act8team",
+    "email": "contact@act8team.com",
+    "url": "https://act8team.com/"
+  },
+  "keywords": [
+    "editor",
+    "unity",
+    "rpc",
+    "discord",
+    "activity"
+  ],
+  "type": "tool"
+}
